@@ -1,0 +1,23 @@
+# Python cache / virtual env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env folders
+env/
+venv/
+.venv/
+
+# Database files (don’t upload local DB)
+*.db
+students.db
+*.sqlite3
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
